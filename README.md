@@ -33,9 +33,7 @@
 
 This real-time data engineering project simulates and processes live e-commerce order data to deliver insightful dashboards for U.S. retail operations. We built an end-to-end pipeline using Azure-native tools and open-source technologies, following a **Bronze → Silver → Gold** architecture.
 
-<img src="[[https://drive.google.com/uc?export=view&id=1i7t-Koi5Y5oO_Fg16zdLXtR9kb7KDYoI](https://drive.google.com/file/d/19VB0cYZYxyCZZHMVDokRX96UflPi1XzK/view?usp=drive_link)](https://drive.google.com/file/d/19VB0cYZYxyCZZHMVDokRX96UflPi1XzK/view?usp=sharing)" width="800" alt="Dashboard 1">
-
----
+<img src="https://drive.google.com/uc?export=view&id=19VB0cYZYxyCZZHMVDokRX96UflPi1XzK" width="800" alt="Dashboard 1">
 
 ## 🎥 Project Walkthrough Video
 
