@@ -144,7 +144,6 @@ Connected Power BI to **Databricks SQL Endpoint** to read the Gold Delta Table.
 | 📄 Raw Data Table | Sorted by highest sales at top |
 
 
-<img width="1418" height="792" alt="Screenshot 2025-08-07 135137" src="https://github.com/user-attachments/assets/1a9187b6-8ff9-4b77-81d2-43060aa981d1" />
 
 
 🧾 Tracked Power BI with:
@@ -182,9 +181,3 @@ This project delivers a **fully functional real-time analytics pipeline** powere
 📂 CICD              → Git commit history & tracking
 ```
 
----
-
-**Author**: *Jaya Chandra Kadiveti*  
-**GitHub**: [username](https://github.com/Jay61616)
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
----
