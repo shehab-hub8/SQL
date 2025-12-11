@@ -35,7 +35,6 @@ This real-time data engineering project simulates and processes live e-commerce 
 
 <img src="https://drive.google.com/uc?export=view&id=19VB0cYZYxyCZZHMVDokRX96UflPi1XzK" width="800" alt="Dashboard 1">
 
-
 ## 🧪 Project Structure
 
 ```
